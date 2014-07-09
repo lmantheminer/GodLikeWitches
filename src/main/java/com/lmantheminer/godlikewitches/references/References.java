@@ -9,5 +9,11 @@ public class References {
 	public static final String BLOCK_ANCIENT_BRICK = "ancientbrick";
 	//public static final String MOB_AFFECTED_ZOMBIE = "AffectedZombie";
 	public static final String ITEM_ANCIENT_INGOT = "ancientingot";
+	public static final String TOOL_ANCIENT_PICKAXE = "ancientpickaxe";
+	public static final String TOOL_ANCIENT_AXE = "ancientaxe";
+	public static final String TOOL_ANCIENT_SWORD = "ancientsword";
+	public static final String TOOL_ANCIENT_SHOVEL = "ancientshovel";
+	public static final String TOOL_ANCIENT_HOE = "ancienthoe";
+
 
 }

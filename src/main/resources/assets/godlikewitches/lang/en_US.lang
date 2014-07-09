@@ -3,6 +3,11 @@ tile.godlikewitches:ancientbrick.name=Ancient Brick
 
 # Items
 item.godlikewitches:ancientingot.name=Ancient Ingot
+item.godlikewitches:ancientpickaxe.name=Ancient Pickaxe
+item.godlikewitches:ancientaxe.name=Ancient Axe
+item.godlikewitches:ancientshovel.name=Ancient Shovel
+item.godlikewitches:ancientsword.name=Ancient Sword
+item.godlikewitches:ancienthoe.name=Ancient Hoe
 
 # Key
 key.catagories.godlikewitches=God Like Witches
